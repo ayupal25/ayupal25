@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ayush
-- 👀 I’m interested in Data Science and Web Development
-- 🌱 I’m currently learning Web Dev
-- 💞️ I’m looking to collaborate on Web Dev
-- 📫 How to reach me on insta @palboy2001
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning .NET Framework
+- 💞️ I’m looking to collaborate on Machine Learning
+- 📫 How to reach me on Instagram @palboy2001
 
 <!---
 ayupal25/ayupal25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
