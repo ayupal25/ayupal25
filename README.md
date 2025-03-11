@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning .NET Framework & MERN
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Flask
 - 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me on Instagram @palboy2001
 
